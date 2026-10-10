@@ -1,6 +1,10 @@
-# Learning material: only each week's LAB folder is uploaded
+
+# Learning material: upload each week's LAB folder
 Week */*
 !Week */LAB/
+!Week 03 - Functions and Modules - Unzipped/
+!Week 03 - Functions and Modules - Unzipped/LAB/
+!Week 03 - Functions and Modules - Unzipped/LAB/**
 
 # Files that should never be uploaded
 .venv/
