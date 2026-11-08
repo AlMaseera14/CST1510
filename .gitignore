@@ -1,6 +1,8 @@
 
 # Learning material: upload each week's LAB folder
 Week */*
+!Week 06 - Pandas/
+!Week 06 - Pandas/**
 !Week */LAB/
 !Week 03 - Functions and Modules - Unzipped/
 !Week 03 - Functions and Modules - Unzipped/LAB/
